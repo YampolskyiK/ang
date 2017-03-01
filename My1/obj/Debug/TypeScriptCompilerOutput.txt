@@ -1,0 +1,12 @@
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\app.component.js
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\app.component.js.map
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\app.module.js
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\app.module.js.map
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\main.js
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\main.js.map
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\app.component.js
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\app.component.js.map
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\app.module.js
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\app.module.js.map
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\main.js
+d:\users\ко\documents\visual studio 2015\Projects\My1\My1\app\main.js.map
